@@ -17,13 +17,10 @@
 1. Richard: Blockchain Technical
 2. Lianna: What are the differences between declarative and imperative languages? Why would we use one over the other? Give some examples of each.
 3. Nat: Template strings
-<<<<<<< HEAD
 4. Zane: Steve Wozniak
 5. Marie: Sending data in headers vs params vs body
-=======
-4. Name: Topic
-5. Name: Topic
->>>>>>> again
+6. Name: Topic
+7. Name: Topic
 
 
 ### Wednesday
@@ -33,7 +30,8 @@
 3. Name: Topic
 4. Name: Topic
 5. Ben: What is referential transparency? What benefits does it give us? How would we code for it?
-
+6. Name: Topic
+7. Name: Topic
 
 ### Thursday
 

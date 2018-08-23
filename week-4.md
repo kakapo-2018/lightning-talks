@@ -20,6 +20,8 @@
 3. Name: Nat ES6 - var, const, let
 4. Zane: ES6 - Map, Set
 5. Marie: Reduce (Higher Order Accumulation Function)
+6. Name: Topic
+7. Name: Topic
 
 
 ### Wednesday
@@ -29,7 +31,8 @@
 3. Welli: Destucturing
 4. Luke: WebPack
 5. Name: Topic
-
+6. Name: Topic
+7. Name: Topic
 
 ### Thursday
 
@@ -38,6 +41,7 @@
 3. Yuzuki: fat arrow functions, function shorthands
 4. Bella: Babel & Transpiling
 5. Name: Topic
+6. Name: Topic
 
 
 ## Topics
