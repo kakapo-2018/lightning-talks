@@ -20,6 +20,8 @@
 3. Name: Nat ES6 - var, const, let
 4. Zane: ES6 - Map, Set
 5. Marie: Reduce (Higher Order Accumulation Function)
+6. Name: Topic
+7. Name: Topic
 
 
 ### Wednesday
@@ -29,7 +31,8 @@
 3. Welli: Destucturing
 4. Luke: WebPack
 5. Cameron: Array.from(), Array.fill()
-
+6. Name: Topic
+7. Name: Topic
 
 ### Thursday
 
@@ -38,6 +41,7 @@
 3. Yuzuki: fat arrow functions, function shorthands
 4. Bella: Babel & Transpiling
 5. Robert Wilkinson: ln.ls
+6. Name: Topic
 
 
 ## Topics
@@ -51,7 +55,7 @@
   * [x] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
   * [x] ES6 - Map, Set
-  * [X] Babel & Transpiling, getting ES6 to work with browserify
+  * [x] Babel & Transpiling, getting ES6 to work with browserify
 
 * Task runners
   * [x] Task runner - gulp - Thursday morning Leslie
@@ -60,7 +64,7 @@
 
 * Command line tools
   * [ ] sed, grep, ag
-  * [x ] ln, ls
+  * [x] ln, ls
   * [ ] chmod, chown, chgrp
   * [x] echo, cat, tail
 
@@ -68,5 +72,5 @@
   * [x] Reduce (Higher Order Accumulation Function)
   * [ ] Purposeless conditions
   * [ ] DOM vs 'virtual dom'
-  * [x ] What is Functional Programming?
+  * [x] What is Functional Programming?
   * [x] What is Object Oriented Programming?

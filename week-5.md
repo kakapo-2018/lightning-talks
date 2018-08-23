@@ -68,7 +68,7 @@
 
 ### Misc
 
-* [X] Cyclomatic complexity [link](http://webuniverse.io/cyclomatic-complexity-refactoring-tips/) [eslint rule](http://eslint.org/docs/rules/complexity)
+* [x] Cyclomatic complexity [link](http://webuniverse.io/cyclomatic-complexity-refactoring-tips/) [eslint rule](http://eslint.org/docs/rules/complexity)
 * [ ] What are design patterns? Why would we use them? Give some examples.
 * [ ] What is referential transparency? What benefits does it give us? How would we code for it?
 * [x] What are the differences between declarative and imperative languages? Why would we use one over the other? Give some examples of each.
