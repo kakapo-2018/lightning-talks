@@ -14,7 +14,7 @@
 
 ### Tuesday
 
-1. Name: Topic
+1. Lianna: Command Line - echo, cat, tail
 2. Name: Topic
 3. Name: Nat ES6 - var, const, let
 4. Name: Topic
