@@ -16,7 +16,7 @@
 
 1. Name: Topic
 2. Name: Topic
-3. Name: Topic
+3. Name: Nat echo, cat, tail
 4. Name: Topic
 5. Name: Topic
 
@@ -61,7 +61,7 @@
   * [ ] sed, grep, ag
   * [ ] ln, ls
   * [ ] chmod, chown, chgrp
-  * [ ] echo, cat, tail
+  * [x] echo, cat, tail
 
 * Misc
   * [ ] Reduce (Higher Order Accumulation Function)
