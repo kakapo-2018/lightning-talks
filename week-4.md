@@ -35,7 +35,7 @@
 1. Leslie: Gulp
 2. Dani: What is Object Oriented Programming?
 3. Yuzuki: fat arrow functions, function shorthands
-4. Name: Topic
+4. Bella: Babel & Transpiling
 5. Name: Topic
 
 
@@ -50,7 +50,7 @@
   * [ ] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
   * [ ] ES6 - Map, Set
-  * [ ] Babel & Transpiling, getting ES6 to work with browserify
+  * [X] Babel & Transpiling, getting ES6 to work with browserify
 
 * Task runners
   * [x] Task runner - gulp - Thursday morning Leslie
