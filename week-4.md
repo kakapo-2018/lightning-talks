@@ -16,7 +16,7 @@
 
 1. Name: Topic
 2. Name: Topic
-3. Name: Topic
+3. Name: Nat ES6 - var, const, let
 4. Name: Topic
 5. Name: Topic
 
@@ -35,18 +35,18 @@
 1. Leslie: Gulp
 2. Dani: What is Object Oriented Programming?
 3. Yuzuki: fat arrow functions, function shorthands
-4. Luke: WebPack
+4. Name: Topic
 5. Name: Topic
 
 
 ## Topics
 
 * ES6
-  * [ ] ES6 - var, const, let
+  * [x] ES6 - var, const, let
   * [ ] ES6 - import, export
   * [x] ES6 - fat arrow functions, function shorthands
   * [ ] ES6 - template strings
-  * [ ] ES6 - destructuring
+  * [x] ES6 - destructuring
   * [ ] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
   * [ ] ES6 - Map, Set
@@ -55,7 +55,7 @@
 * Task runners
   * [x] Task runner - gulp - Thursday morning Leslie
   * [x] Task runner - grunt
-  * [x] Task runner - webpack
+  * [ ] Task runner - webpack
 
 * Command line tools
   * [ ] sed, grep, ag
