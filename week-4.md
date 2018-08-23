@@ -14,7 +14,7 @@
 
 ### Tuesday
 
-1. Lianna: Command line: echo, cat, tail
+1. Name: Topic
 2. Name: Topic
 3. Name: Topic
 4. Name: Topic
@@ -53,7 +53,7 @@
   * [ ] Babel & Transpiling, getting ES6 to work with browserify
 
 * Task runners
-  * [ ] Task runner - gulp
+  * [x] Task runner - gulp - Thursday morning Leslie
   * [ ] Task runner - grunt
   * [ ] Task runner - webpack
 
@@ -61,7 +61,7 @@
   * [ ] sed, grep, ag
   * [ ] ln, ls
   * [ ] chmod, chown, chgrp
-  * [x] echo, cat, tail
+  * [ ] echo, cat, tail
 
 * Misc
   * [ ] Reduce (Higher Order Accumulation Function)
