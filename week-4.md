@@ -46,7 +46,7 @@
   * [ ] ES6 - import, export
   * [x] ES6 - fat arrow functions, function shorthands
   * [ ] ES6 - template strings
-  * [ ] ES6 - destructuring
+  * [x] ES6 - destructuring
   * [ ] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
   * [ ] ES6 - Map, Set
