@@ -36,7 +36,7 @@
 2. Luke: Linus Torvalds
 3. Dani: Default parameters, Rest + Spread
 4. Yuzuki: What is CORS? Why is it important to understand? What is it for?
-5. Name: Topic
+5. Bella: Cyclomatic complexity
 
 
 ## Topics
@@ -65,7 +65,7 @@
 
 ### Misc
 
-* [ ] Cyclomatic complexity [link](http://webuniverse.io/cyclomatic-complexity-refactoring-tips/) [eslint rule](http://eslint.org/docs/rules/complexity)
+* [X] Cyclomatic complexity [link](http://webuniverse.io/cyclomatic-complexity-refactoring-tips/) [eslint rule](http://eslint.org/docs/rules/complexity)
 * [ ] What are design patterns? Why would we use them? Give some examples.
 * [ ] What is referential transparency? What benefits does it give us? How would we code for it?
 * [x] What are the differences between declarative and imperative languages? Why would we use one over the other? Give some examples of each.
