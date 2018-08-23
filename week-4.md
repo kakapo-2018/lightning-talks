@@ -14,10 +14,10 @@
 
 ### Tuesday
 
-1. Name: Topic
+1. Richard: Blockchain overview
 2. Name: Topic
 3. Name: Nat ES6 - var, const, let
-4. Name: Topic
+4. Zane: ES6 - Map, Set
 5. Name: Topic
 
 
@@ -26,7 +26,7 @@
 1. Name: Topic
 2. Ben: Task runner - grunt
 3. Welli: Destucturing
-4. Name: Topic
+4. Marie: Reduce (Higher Order Accumulation Function)
 5. Name: Topic
 
 
@@ -49,7 +49,7 @@
   * [x] ES6 - destructuring
   * [ ] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
-  * [ ] ES6 - Map, Set
+  * [x] ES6 - Map, Set
   * [ ] Babel & Transpiling, getting ES6 to work with browserify
 
 * Task runners
@@ -64,7 +64,7 @@
   * [x] echo, cat, tail
 
 * Misc
-  * [ ] Reduce (Higher Order Accumulation Function)
+  * [x] Reduce (Higher Order Accumulation Function)
   * [ ] Purposeless conditions
   * [ ] DOM vs 'virtual dom'
   * [ ] What is Functional Programming?
