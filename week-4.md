@@ -26,7 +26,7 @@
 1. Name: Topic
 2. Ben: Task runner - grunt
 3. Welli: Destucturing
-4. Name: Topic
+4. Luke: WebPack
 5. Name: Topic
 
 
@@ -55,7 +55,7 @@
 * Task runners
   * [x] Task runner - gulp - Thursday morning Leslie
   * [x] Task runner - grunt
-  * [ ] Task runner - webpack
+  * [x] Task runner - webpack
 
 * Command line tools
   * [ ] sed, grep, ag
