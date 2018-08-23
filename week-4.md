@@ -25,7 +25,7 @@
 
 1. Name: Topic
 2. Ben: Task runner - grunt
-3. Name: Topic
+3. Welli: Destucturing
 4. Name: Topic
 5. Name: Topic
 
