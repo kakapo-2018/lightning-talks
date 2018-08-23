@@ -34,7 +34,7 @@
 
 1. Leslie: Type and Coffee
 2. Luke: Linus Torvalds
-3. Name: Topic
+3. Dani: Default parameters, Rest + Spread
 4. Name: Topic
 5. Name: Topic
 
@@ -53,7 +53,7 @@
 ### ES6
 * [ ] Template strings
 * [ ] Destructuring
-* [ ] Default parameters, Rest + Spread
+* [x] Default parameters, Rest + Spread
 * [ ] Spread Operators
 
 ### Technical
