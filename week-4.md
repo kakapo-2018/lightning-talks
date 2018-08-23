@@ -14,12 +14,12 @@
 
 ### Tuesday
 
+
 1. Lianna: Command Line - echo, cat, tail
 2. Richard: Blockchain overview
-3. Name: Topic
-4. Name: Nat ES6 - var, const, let
-5. Zane: ES6 - Map, Set
-6. Marie: Reduce (Higher Order Accumulation Function)
+3. Name: Nat ES6 - var, const, let
+4. Zane: ES6 - Map, Set
+5. Marie: Reduce (Higher Order Accumulation Function)
 
 
 ### Wednesday
@@ -50,7 +50,7 @@
   * [x] ES6 - destructuring
   * [ ] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
-  * [X] ES6 - Map, Set
+  * [x] ES6 - Map, Set
   * [X] Babel & Transpiling, getting ES6 to work with browserify
 
 * Task runners
