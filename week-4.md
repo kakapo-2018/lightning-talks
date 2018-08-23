@@ -14,11 +14,12 @@
 
 ### Tuesday
 
-1. Richard: Blockchain overview
-2. Name: Topic
+
+1. Lianna: Command Line - echo, cat, tail
+2. Richard: Blockchain overview
 3. Name: Nat ES6 - var, const, let
 4. Zane: ES6 - Map, Set
-5. Name: Topic
+5. Marie: Reduce (Higher Order Accumulation Function)
 
 
 ### Wednesday
@@ -26,7 +27,7 @@
 1. Name: Topic
 2. Ben: Task runner - grunt
 3. Welli: Destucturing
-4. Marie: Reduce (Higher Order Accumulation Function)
+4. Luke: WebPack
 5. Name: Topic
 
 
@@ -35,7 +36,7 @@
 1. Leslie: Gulp
 2. Dani: What is Object Oriented Programming?
 3. Yuzuki: fat arrow functions, function shorthands
-4. Name: Topic
+4. Bella: Babel & Transpiling
 5. Name: Topic
 
 
@@ -50,12 +51,12 @@
   * [ ] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
   * [x] ES6 - Map, Set
-  * [ ] Babel & Transpiling, getting ES6 to work with browserify
+  * [X] Babel & Transpiling, getting ES6 to work with browserify
 
 * Task runners
   * [x] Task runner - gulp - Thursday morning Leslie
   * [x] Task runner - grunt
-  * [ ] Task runner - webpack
+  * [x] Task runner - webpack
 
 * Command line tools
   * [ ] sed, grep, ag
