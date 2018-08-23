@@ -35,7 +35,7 @@
 1. Leslie: Gulp
 2. Dani: What is Object Oriented Programming?
 3. Yuzuki: fat arrow functions, function shorthands
-4. Name: Topic
+4. Luke: WebPack
 5. Name: Topic
 
 
@@ -46,7 +46,7 @@
   * [ ] ES6 - import, export
   * [x] ES6 - fat arrow functions, function shorthands
   * [ ] ES6 - template strings
-  * [x] ES6 - destructuring
+  * [ ] ES6 - destructuring
   * [ ] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
   * [ ] ES6 - Map, Set
@@ -55,7 +55,7 @@
 * Task runners
   * [x] Task runner - gulp - Thursday morning Leslie
   * [x] Task runner - grunt
-  * [ ] Task runner - webpack
+  * [x] Task runner - webpack
 
 * Command line tools
   * [ ] sed, grep, ag
