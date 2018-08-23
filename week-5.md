@@ -35,7 +35,7 @@
 1. Leslie: Type and Coffee
 2. Luke: Linus Torvalds
 3. Dani: Default parameters, Rest + Spread
-4. Name: Topic
+4. Yuzuki: What is CORS? Why is it important to understand? What is it for?
 5. Name: Topic
 
 
@@ -58,7 +58,7 @@
 
 ### Technical
 * [ ] NoSQL
-* [ ] What is CORS? Why is it important to understand? What is it for?
+* [x] What is CORS? Why is it important to understand? What is it for?
 * [ ] Sending data in headers vs. params vs. body
 * [ ] What is currying? Why would we use it?
 * [x] What are Typescript and Coffeescript? (Or just talk about one of them) leslie thursday morning
