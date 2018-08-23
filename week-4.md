@@ -24,7 +24,7 @@
 ### Wednesday
 
 1. Name: Topic
-2. Name: Topic
+2. Ben: Task runner - grunt
 3. Name: Topic
 4. Name: Topic
 5. Name: Topic
@@ -54,7 +54,7 @@
 
 * Task runners
   * [x] Task runner - gulp - Thursday morning Leslie
-  * [ ] Task runner - grunt
+  * [x] Task runner - grunt
   * [ ] Task runner - webpack
 
 * Command line tools
