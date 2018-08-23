@@ -61,7 +61,7 @@
 * [ ] What is CORS? Why is it important to understand? What is it for?
 * [ ] Sending data in headers vs. params vs. body
 * [ ] What is currying? Why would we use it?
-* [ ] What are Typescript and Coffeescript? (Or just talk about one of them)
+* [x] What are Typescript and Coffeescript? (Or just talk about one of them) leslie thursday morning
 
 ### Misc
 
