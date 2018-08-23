@@ -33,7 +33,7 @@
 ### Thursday
 
 1. Leslie: Type and Coffee
-2. Luke: Linus TorvaldsTorvalds
+2. Luke: Linus Torvalds
 3. Name: Topic
 4. Name: Topic
 5. Name: Topic
