@@ -16,7 +16,7 @@
 
 1. Name: Topic
 2. Lianna: What are the differences between declarative and imperative languages? Why would we use one over the other? Give some examples of each.
-3. Name: Topic
+3. Nat: Template strings
 4. Name: Topic
 5. Name: Topic
 
@@ -51,7 +51,7 @@
 * [x] Linus Torvalds
 
 ### ES6
-* [ ] Template strings
+* [x] Template strings
 * [ ] Destructuring
 * [x] Default parameters, Rest + Spread
 * [ ] Spread Operators
