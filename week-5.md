@@ -17,8 +17,13 @@
 1. Richard: Blockchain Technical
 2. Lianna: What are the differences between declarative and imperative languages? Why would we use one over the other? Give some examples of each.
 3. Nat: Template strings
+<<<<<<< HEAD
 4. Zane: Steve Wozniak
 5. Marie: Sending data in headers vs params vs body
+=======
+4. Name: Topic
+5. Name: Topic
+>>>>>>> again
 
 
 ### Wednesday
