@@ -14,7 +14,7 @@
 
 ### Tuesday
 
-1. Name: Topic
+1. Lianna: Command line: echo, cat, tail
 2. Name: Topic
 3. Name: Topic
 4. Name: Topic
@@ -61,7 +61,7 @@
   * [ ] sed, grep, ag
   * [ ] ln, ls
   * [ ] chmod, chown, chgrp
-  * [ ] echo, cat, tail
+  * [x] echo, cat, tail
 
 * Misc
   * [ ] Reduce (Higher Order Accumulation Function)
