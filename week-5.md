@@ -27,7 +27,7 @@
 2. Name: Topic
 3. Name: Topic
 4. Name: Topic
-5. Name: Topic
+5. Ben: What is referential transparency? What benefits does it give us? How would we code for it?
 
 
 ### Thursday
