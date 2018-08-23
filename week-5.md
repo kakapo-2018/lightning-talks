@@ -14,11 +14,11 @@
 
 ### Tuesday
 
-1. Name: Topic
+1. Richard: Blockchain Technical
 2. Lianna: What are the differences between declarative and imperative languages? Why would we use one over the other? Give some examples of each.
 3. Nat: Template strings
-4. Name: Topic
-5. Name: Topic
+4. Zane: Steve Wozniak
+5. Marie: Sending data in headers vs params vs body
 
 
 ### Wednesday
@@ -47,7 +47,7 @@
 * [ ] Roy Fielding
 * [ ] Audrey Tang
 * [ ] Alan Turing
-* [ ] Steve Wozniak
+* [x] Steve Wozniak
 * [x] Linus Torvalds
 
 ### ES6
@@ -59,7 +59,7 @@
 ### Technical
 * [ ] NoSQL
 * [x] What is CORS? Why is it important to understand? What is it for?
-* [ ] Sending data in headers vs. params vs. body
+* [x] Sending data in headers vs. params vs. body
 * [ ] What is currying? Why would we use it?
 * [x] What are Typescript and Coffeescript? (Or just talk about one of them) leslie thursday morning
 
