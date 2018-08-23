@@ -32,7 +32,7 @@
 
 ### Thursday
 
-1. Name: Topic
+1. Leslie: Gulp
 2. Name: Topic
 3. Name: Topic
 4. Name: Topic
