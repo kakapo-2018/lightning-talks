@@ -25,7 +25,7 @@
 
 1. Name: Topic
 2. Ben: Task runner - grunt
-3. Name: Topic
+3. kyoko: ES6 - var, const, let
 4. Name: Topic
 5. Name: Topic
 
@@ -42,7 +42,7 @@
 ## Topics
 
 * ES6
-  * [ ] ES6 - var, const, let
+  * [x] ES6 - var, const, let
   * [ ] ES6 - import, export
   * [ ] ES6 - fat arrow functions, function shorthands
   * [ ] ES6 - template strings
