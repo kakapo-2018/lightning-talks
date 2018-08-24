@@ -23,7 +23,7 @@
 
 ### Wednesday
 
-1. Name: Topic
+1. Robbie: chmod, chown, chgrp
 2. Ben: Task runner - grunt
 3. Welli: Destucturing
 4. Name: Topic
@@ -60,7 +60,7 @@
 * Command line tools
   * [ ] sed, grep, ag
   * [ ] ln, ls
-  * [ ] chmod, chown, chgrp
+  * [x] chmod, chown, chgrp
   * [x] echo, cat, tail
 
 * Misc

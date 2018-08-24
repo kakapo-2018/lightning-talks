@@ -23,7 +23,7 @@
 
 ### Wednesday
 
-1. Name: Topic
+1. Robbie: Ada Lovelace
 2. Name: Topic
 3. Name: Topic
 4. Name: Topic
@@ -43,7 +43,7 @@
 
 ### Biographical
 
-* [ ] Ada Lovelace
+* [x] Ada Lovelace
 * [ ] Roy Fielding
 * [ ] Audrey Tang
 * [ ] Alan Turing
