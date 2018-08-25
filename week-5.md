@@ -31,8 +31,7 @@
 4. Name: Topic
 5. Ben: What is referential transparency? What benefits does it give us? How would we code for it?
 6. Emil: Roy Fielding
-7. Name: Topic
-
+7. Robert Wilkinson: NoSQL
 ### Thursday
 
 1. Leslie: Type and Coffee
@@ -60,7 +59,7 @@
 * [ ] Spread Operators
 
 ### Technical
-* [ ] NoSQL
+* [x] NoSQL
 * [x] What is CORS? Why is it important to understand? What is it for?
 * [x] Sending data in headers vs. params vs. body
 * [ ] What is currying? Why would we use it?
