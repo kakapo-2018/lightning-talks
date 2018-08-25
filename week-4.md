@@ -17,7 +17,7 @@
 
 1. Lianna: Command Line - echo, cat, tail
 2. Richard: Blockchain overview
-3. Name: Nat ES6 - var, const, let
+3. Nat: ES6 - var, const, let
 4. Zane: ES6 - Map, Set
 5. Marie: Reduce (Higher Order Accumulation Function)
 6. Emil: Template String
@@ -28,7 +28,7 @@
 
 1. Robbie: chmod, chown, chgrp
 2. Ben: Task runner - grunt
-3. Welli: Destucturing
+3. Welli: ES6 - Destructuring
 4. Luke: WebPack
 5. Cameron: Array.from(), Array.fill()
 6. Name: Topic
@@ -64,7 +64,7 @@
 
 * Command line tools
   * [ ] sed, grep, ag
-  * [ ] ln, ls
+  * [x] ln, ls
   * [x] chmod, chown, chgrp
   * [x] ln, ls
   * [ ] chmod, chown, chgrp
