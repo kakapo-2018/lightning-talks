@@ -20,7 +20,7 @@
 3. Name: Nat ES6 - var, const, let
 4. Zane: ES6 - Map, Set
 5. Marie: Reduce (Higher Order Accumulation Function)
-6. Name: Topic
+6. Emil: Template String
 7. Name: Topic
 
 
@@ -50,7 +50,7 @@
   * [x] ES6 - var, const, let
   * [ ] ES6 - import, export
   * [x] ES6 - fat arrow functions, function shorthands
-  * [ ] ES6 - template strings
+  * [x] ES6 - template strings
   * [x] ES6 - destructuring
   * [x] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread

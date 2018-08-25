@@ -30,7 +30,7 @@
 3. Name: Topic
 4. Name: Topic
 5. Ben: What is referential transparency? What benefits does it give us? How would we code for it?
-6. Name: Topic
+6. Emil: Roy Fielding
 7. Name: Topic
 
 ### Thursday
@@ -47,7 +47,7 @@
 ### Biographical
 
 * [x] Ada Lovelace
-* [ ] Roy Fielding
+* [x] Roy Fielding
 * [ ] Audrey Tang
 * [ ] Alan Turing
 * [x] Steve Wozniak
