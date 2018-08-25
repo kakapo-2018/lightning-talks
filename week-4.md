@@ -40,7 +40,7 @@
 2. Dani: What is Object Oriented Programming?
 3. Yuzuki: fat arrow functions, function shorthands
 4. Bella: Babel & Transpiling
-5. Robert Wilkinson: ln.ls
+5. Robert Wilkinson: ln,ls
 6. Name: Topic
 
 
