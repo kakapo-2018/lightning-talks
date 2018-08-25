@@ -19,7 +19,7 @@
 3. Nat: Template strings
 4. Zane: Steve Wozniak
 5. Marie: Sending data in headers vs params vs body
-6. Name: Topic
+6. Welli: ES6 - Spread Operators
 7. Name: Topic
 
 
@@ -56,7 +56,7 @@
 * [x] Template strings
 * [ ] Destructuring
 * [x] Default parameters, Rest + Spread
-* [ ] Spread Operators
+* [x] Spread Operators
 
 ### Technical
 * [x] NoSQL
