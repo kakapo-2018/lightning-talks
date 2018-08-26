@@ -26,7 +26,7 @@
 ### Wednesday
 
 1. Robbie: Ada Lovelace
-2. Name: Topic
+2. Lexi: Alan Turing
 3. Name: Topic
 4. Name: Topic
 5. Ben: What is referential transparency? What benefits does it give us? How would we code for it?
@@ -48,7 +48,7 @@
 * [x] Ada Lovelace
 * [x] Roy Fielding
 * [ ] Audrey Tang
-* [ ] Alan Turing
+* [x] Alan Turing
 * [x] Steve Wozniak
 * [x] Linus Torvalds
 
