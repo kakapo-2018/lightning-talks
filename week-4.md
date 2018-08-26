@@ -31,7 +31,7 @@
 3. Welli: ES6 - Destructuring
 4. Luke: WebPack
 5. Cameron: Array.from(), Array.fill()
-6. Name: Topic
+6. Lexi
 7. Name: Topic
 
 ### Thursday
