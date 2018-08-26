@@ -28,7 +28,7 @@
 1. Robbie: Ada Lovelace
 2. Lexi: Alan Turing
 3. Matt: Audrey Tang
-4. Name: Topic
+4. Kyoko: What are design patterns? Why would we use them? Give some examples.
 5. Ben: What is referential transparency? What benefits does it give us? How would we code for it?
 6. Emil: Roy Fielding
 7. Robert Wilkinson: NoSQL
@@ -68,7 +68,7 @@
 ### Misc
 
 * [x] Cyclomatic complexity [link](http://webuniverse.io/cyclomatic-complexity-refactoring-tips/) [eslint rule](http://eslint.org/docs/rules/complexity)
-* [ ] What are design patterns? Why would we use them? Give some examples.
-* [ ] What is referential transparency? What benefits does it give us? How would we code for it?
+* [x] What are design patterns? Why would we use them? Give some examples.
+* [x] What is referential transparency? What benefits does it give us? How would we code for it?
 * [x] What are the differences between declarative and imperative languages? Why would we use one over the other? Give some examples of each.
 * [ ] What is the Turing Test? What does it mean to say that something is Turing Complete?
