@@ -32,7 +32,7 @@
 4. Luke: WebPack
 5. Cameron: Array.from(), Array.fill()
 6. Lexi
-7. Name: Topic
+7. Kyoko: Purposeless Conditions
 
 ### Thursday
 
@@ -72,7 +72,7 @@
 
 * Misc
   * [x] Reduce (Higher Order Accumulation Function)
-  * [ ] Purposeless conditions
+  * [x] Purposeless conditions
   * [ ] DOM vs 'virtual dom'
   * [x] What is Functional Programming?
   * [x] What is Object Oriented Programming?
