@@ -41,7 +41,7 @@
 3. Yuzuki: fat arrow functions, function shorthands
 4. Bella: Babel & Transpiling
 5. Robert Wilkinson: ln, ls
-6. Name: Topic
+6. Matt : DOM vs 'virtual dom'
 
 
 ## Topics
@@ -73,6 +73,6 @@
 * Misc
   * [x] Reduce (Higher Order Accumulation Function)
   * [x] Purposeless conditions
-  * [ ] DOM vs 'virtual dom'
+  * [x] DOM vs 'virtual dom'
   * [x] What is Functional Programming?
   * [x] What is Object Oriented Programming?
