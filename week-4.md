@@ -31,7 +31,7 @@
 3. Welli: ES6 - Destructuring
 4. Luke: WebPack
 5. Cameron: Array.from(), Array.fill()
-6. Lexi
+6. Lexi: Import Export
 7. Kyoko: Purposeless Conditions
 
 ### Thursday
@@ -48,7 +48,7 @@
 
 * ES6
   * [x] ES6 - var, const, let
-  * [ ] ES6 - import, export
+  * [x] ES6 - import, export
   * [x] ES6 - fat arrow functions, function shorthands
   * [x] ES6 - template strings
   * [x] ES6 - destructuring
