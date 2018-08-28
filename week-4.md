@@ -31,8 +31,7 @@
 3. Welli: ES6 - Destructuring
 4. Luke: WebPack
 5. Cameron: Array.from(), Array.fill()
-6. Lexi: Import Export
-7. Kyoko: Purposeless Conditions
+6. Kyoko: Purposeless Conditions
 
 ### Thursday
 
@@ -42,6 +41,7 @@
 4. Bella: Babel & Transpiling
 5. Robert Wilkinson: ln, ls
 6. Matt : DOM vs 'virtual dom'
+7. Lexi: Import Export
 
 
 ## Topics
