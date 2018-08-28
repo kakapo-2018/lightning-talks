@@ -60,7 +60,7 @@
 
 ### Technical
 * [x] NoSQL
-* [] What is CORS? Why is it important to understand? What is it for?
+* [x] What is CORS? Why is it important to understand? What is it for?
 * [x] Sending data in headers vs. params vs. body
 * [ ] What is currying? Why would we use it?
 * [x] What are Typescript and Coffeescript? (Or just talk about one of them) leslie thursday morning
