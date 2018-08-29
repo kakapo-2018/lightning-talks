@@ -16,7 +16,7 @@
 
 1. Richard: Blockchain Technical
 2. Lianna: What are the differences between declarative and imperative languages? Why would we use one over the other? Give some examples of each.
-3. Nat: Template strings
+3. Nat: What is currying? Why would we use it?
 4. Zane: Steve Wozniak
 5. Marie: Sending data in headers vs params vs body
 6. Welli: ES6 - Spread Operators
@@ -62,7 +62,7 @@
 * [x] NoSQL
 * [ ] What is CORS? Why is it important to understand? What is it for?
 * [x] Sending data in headers vs. params vs. body
-* [ ] What is currying? Why would we use it?
+* [x] What is currying? Why would we use it?
 * [x] What are Typescript and Coffeescript? (Or just talk about one of them) leslie thursday morning
 
 ### Misc
