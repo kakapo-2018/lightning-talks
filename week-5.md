@@ -37,7 +37,7 @@
 1. Leslie: Type and Coffee
 2. Luke: Linus Torvalds
 3. Dani: Default parameters, Rest + Spread
-4. Yuzuki: Destructuring
+4. Yuzuki: What is the Turing Test? What does it mean to say that something is Turing Complete?
 5. Bella: Cyclomatic complexity
 
 
@@ -60,7 +60,7 @@
 
 ### Technical
 * [x] NoSQL
-* [x] What is CORS? Why is it important to understand? What is it for?
+* [ ] What is CORS? Why is it important to understand? What is it for?
 * [x] Sending data in headers vs. params vs. body
 * [ ] What is currying? Why would we use it?
 * [x] What are Typescript and Coffeescript? (Or just talk about one of them) leslie thursday morning
@@ -71,4 +71,4 @@
 * [x] What are design patterns? Why would we use them? Give some examples.
 * [x] What is referential transparency? What benefits does it give us? How would we code for it?
 * [x] What are the differences between declarative and imperative languages? Why would we use one over the other? Give some examples of each.
-* [ ] What is the Turing Test? What does it mean to say that something is Turing Complete?
+* [x] What is the Turing Test? What does it mean to say that something is Turing Complete?
