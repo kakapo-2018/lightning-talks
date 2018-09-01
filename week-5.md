@@ -20,7 +20,7 @@
 4. Zane: Steve Wozniak
 5. Marie: Sending data in headers vs params vs body
 6. Welli: ES6 - Spread Operators
-7. Name: Topic
+7. Winston: CORS
 
 
 ### Wednesday
@@ -60,7 +60,7 @@
 
 ### Technical
 * [x] NoSQL
-* [ ] What is CORS? Why is it important to understand? What is it for?
+* [X] What is CORS? Why is it important to understand? What is it for?
 * [x] Sending data in headers vs. params vs. body
 * [x] What is currying? Why would we use it?
 * [x] What are Typescript and Coffeescript? (Or just talk about one of them) leslie thursday morning
