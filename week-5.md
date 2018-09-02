@@ -39,7 +39,7 @@
 3. Dani: Default parameters, Rest + Spread
 4. Yuzuki: What is the Turing Test? What does it mean to say that something is Turing Complete?
 5. Bella: Cyclomatic complexity
-
+6.Cameron: Destructuring
 
 ## Topics
 
