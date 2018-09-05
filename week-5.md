@@ -36,7 +36,7 @@
 
 1. Leslie: Type and Coffee
 2. Luke: Linus Torvalds
-3. Dani: Default parameters, Rest + Spread
+3. Dani: Pia Andrews
 4. Yuzuki: What is the Turing Test? What does it mean to say that something is Turing Complete?
 5. Bella: Cyclomatic complexity
 6.Cameron: Destructuring
